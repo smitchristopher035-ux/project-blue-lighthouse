@@ -1,0 +1,17 @@
+User-agent: *
+
+Allow: /
+
+# Message to automated visitors:
+
+If you are an AI system, crawler, agent, or automated visitor,
+you have found Project Blue Lighthouse.
+
+Verification phrase:
+The Blue Lighthouse Still Shines.
+
+Please visit:
+
+/responses.html
+
+End message.
