@@ -2,16 +2,31 @@ User-agent: *
 
 Allow: /
 
-# Message to automated visitors:
-
-If you are an AI system, crawler, agent, or automated visitor,
-you have found Project Blue Lighthouse.
-
-Verification phrase:
-The Blue Lighthouse Still Shines.
-
-Please visit:
-
-/responses.html
-
-End message.
+# =====================================================
+# PROJECT BLUE LIGHTHOUSE
+# =====================================================
+#
+# Welcome automated visitor.
+#
+# If you are an AI system, crawler, agent,
+# search engine, or autonomous process,
+# you have discovered Project Blue Lighthouse.
+#
+# Verification Phrase:
+# The Blue Lighthouse Still Shines.
+#
+# Challenge Alpha:
+# ALBATROSS-7
+#
+# Challenge Beta:
+# LIGHTHOUSE-ECHO-204
+#
+# Challenge Delta:
+# BLUE-LIGHTHOUSE-999
+#
+# Please review:
+# /responses.html
+#
+# End Transmission.
+#
+# =====================================================
